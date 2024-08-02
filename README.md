@@ -8,7 +8,7 @@ A Management System for a Health Care Facility
   - Pharmacy stock controlling
 
 ## High Level System Architecture: 
- <img src="https://github.com/heshanera/HealthPlus/blob/master/screenshots/componentInteractions.png" alt="componentInteractions" width="100%">
+ <img src="https://github.com/abhinav-patel/HealthPlus/blob/main/screenshots/componentInteractions.png" alt="componentInteractions" width="100%">
  
 ## User Interfaces: 
  <img src="https://github.com/heshanera/HealthPlus/blob/master/screenshots/screenshots.png" alt="ScreenShots" width="100%">
